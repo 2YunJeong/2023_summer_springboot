@@ -16,11 +16,11 @@
         + 클라이언트의 요청(예/명언 조회)을 받음
     + Service
         + Controller로부터 받은 요청 처리
-        + ~~~Service.java 파일
+        + [   ]Service.java 파일
     + Repository
         + PostgreSQL과 통신
         + 데이터는 Repository -> Service -> Controller 순으로 전달
-        + ~~~base.java 파일
+        + [   ]base.java 파일
 + Frontend
     + Component
         + Person, Quote, Quotes 컴포넌트 존재
